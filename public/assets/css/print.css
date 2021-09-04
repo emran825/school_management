@@ -1,0 +1,49 @@
+.navbar {
+    display: none;
+}
+.main-navigation {
+    display: none;
+}
+.hidden-print {
+    display: none;
+}
+.app-sidebar {
+    display: none;
+}
+.breadcrumb {
+    display: none;
+}
+.page-header {
+    display: none;
+}
+.footer {
+    display: none;
+}
+.main-container {
+    display: none;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.app-container {
+    display: none;
+    min-height: auto !important;
+    border: none !important;
+}
+* {
+    overflow: visible !important;
+}
+* {
+    float: none !important;
+}
+
+.modal-body {
+    overflow: visible !important;
+    width: 100% !important;
+}
+.p {
+    page-break-after: always;
+    color: red;
+}
+.PS {
+    background: none !important;
+}
