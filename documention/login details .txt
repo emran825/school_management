@@ -1,0 +1,24 @@
+http://project14.cretechbd.com/public/login (All login student, teacher, same Url)
+
+Super Admin
+username:razibeee2014@gmail.com
+password: 1234
+
+
+School Admin
+username:mohmmadpur@gmail.com
+password: 1234
+
+
+Teacher Admin
+username:nasif@gmail.com
+password:1234
+
+
+
+Student Admin
+username:mayenuddin@gmail.com
+password:1234
+
+
+Site Link: http://project14.cretechbd.com/public/login
